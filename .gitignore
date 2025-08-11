@@ -11,3 +11,7 @@ data/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Ignore large raw data
+data/*.csv
+data/*.parquet
