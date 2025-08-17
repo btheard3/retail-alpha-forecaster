@@ -18,3 +18,4 @@ data/*.parquet
 
 .env
 *.json   # catches your GCP service account jsons
+keys
