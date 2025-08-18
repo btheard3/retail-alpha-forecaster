@@ -5,6 +5,7 @@ scikit-learn==1.5.1
 pyarrow==16.1.0
 
 # Visualization & Dashboard
+altair==5.3.0
 streamlit==1.37.0
 matplotlib==3.9.1
 seaborn==0.13.2
